@@ -1,0 +1,21 @@
+{
+    "name": "HUSTSOCKS Configuration",
+    "version": "2024.1.2",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "storage",
+        "proxy"
+    ],
+    "options_page": "options.html",
+    "action": {
+        "default_icon": {
+            "16": "/assets/icon16.png"
+        }
+    },
+    "icons": {
+        "16": "/assets/icon16.png"
+    },
+    "manifest_version": 3
+}
