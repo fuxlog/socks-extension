@@ -1,6 +1,6 @@
 {
-    "name": "HUSTSOCKS Configuration",
-    "version": "2024.1.2",
+    "name": "FUXLOGSOCKS Configuration",
+    "version": "2024.1.3",
     "background": {
         "service_worker": "background.js"
     },
